@@ -1,0 +1,121 @@
+
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    color: white;    
+}
+
+.page1container{
+    background-image: url("../staticLayout/assets/1600-lifestyle-background@2x.jpg");
+    background-size: cover;
+    height: 655px;
+    align-content: center;
+}
+
+.page2container{
+    background-image: url("../staticLayout/assets/768-content-grid-2X_0.jpg");
+    background-size: cover;
+    height: 655px;
+}
+
+.navcontainer{
+    /*border: 1px solid yellow;*/
+    height: 20%;}
+
+ul {
+    list-style-type: none;    
+    margin: 0;
+    padding: 5%;
+    width: 90%;
+    height: 50px;
+    position: absolute;
+    top: 75px;
+}
+
+li {    
+    display: inline;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 800;    
+}
+
+button {
+    background-color: white;
+    font-size: 12px;
+    font-weight: 700;  
+    color: black;
+    border: none;
+    padding: 15px 35px 15px 35px;
+}
+
+#logo{
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 16px; 
+}
+
+
+.trialcontainer{
+    float: right;
+}
+
+.logocontainer{
+    float: left;
+}
+
+.slogancontainer{
+    /*border: 1px solid yellow;*/
+    text-align: center;
+    font-size: 20px;    
+}
+
+.promotioncontainer{
+    /*border: 1px solid yellow;*/
+    text-align: center;
+    font-size: 16px;
+}
+
+.channelscontainer{
+    /*border: 1px solid yellow;*/
+    text-align: center;
+    font-size: 9px;
+}
+
+.buttoncontainer{
+    /*border: 1px solid yellow;*/
+    text-align: center;
+}
+
+.disclaimer{
+    /*border: 1px solid yellow;*/
+    text-align: center;
+    font-size: 12px;  
+}
+
+.options{
+    /*border-color: 1px solid yellow;*/
+    height: 20%;
+    text-align: center;
+    font-size: 12px;
+}
+
+.optionsbutton{
+    background-image: url=("https://www.hulu.com/static/hitch/static/icons/arrow_down.svg");
+    border: 1px solid white;
+    background-color: transparent;
+    border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
