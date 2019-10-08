@@ -6,14 +6,14 @@ body {
 }
 
 .page1container{
-    background-image: url("../staticLayout/assets/1600-lifestyle-background@2x.jpg");
+    background-image: url("assets/1600-lifestyle-background@2x.jpg");
     background-size: cover;
     height: 655px;
     align-content: center;
 }
 
 .page2container{
-    background-image: url("../staticLayout/assets/768-content-grid-2X_0.jpg");
+    background-image: url("assets/768-content-grid-2X_0.jpg");
     background-size: cover;
     height: 655px;
 }
